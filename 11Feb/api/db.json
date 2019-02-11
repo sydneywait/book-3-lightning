@@ -1,0 +1,105 @@
+{
+  "coffeeDrinks": [
+    {
+      "drink": "coffee",
+      "barrista": "Sydney",
+      "id": 1
+    },
+    {
+      "drink": "green tea",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 2
+    },
+    {
+      "drink": "hot cocoa",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 3
+    },
+    {
+      "drink": "chamomile",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 4
+    },
+    {
+      "drink": "cinnamon",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 5
+    },
+    {
+      "drink": "peach",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 6
+    },
+    {
+      "drink": "mocha",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 7
+    },
+    {
+      "drink": "latte",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 8
+    },
+    {
+      "drink": "latte",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 9
+    },
+    {
+      "drink": "coffee",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 10
+    },
+    {
+      "drink": "coffee",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 11
+    },
+    {
+      "drink": "tea",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 12
+    },
+    {
+      "drink": "tea",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 13
+    },
+    {
+      "drink": "peach",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 14
+    },
+    {
+      "drink": "peach",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 15
+    },
+    {
+      "drink": "smoothie",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 16
+    },
+    {
+      "drink": "smoothie",
+      "barrista": "Sydney",
+      "location": "downtown",
+      "id": 17
+    }
+  ]
+}
